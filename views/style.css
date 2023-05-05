@@ -1,0 +1,11 @@
+.title{
+	background-image: linear-gradient(darkcyan, darkblue);
+	text-align: center;
+	color: ghostwhite;
+    padding: auto;
+    margin-top: auto;
+}
+
+.bodyStyle{
+    background-color: darkgray;
+}
